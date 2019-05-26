@@ -12,8 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image:
-                NetworkImage('https://www.gia.edu/images/polished-diamond.png'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
